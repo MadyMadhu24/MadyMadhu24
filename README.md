@@ -23,7 +23,7 @@
 
 <a href="https://github.com/MadyMadhu24"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="mailto:msmadhu2405@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-22D3EE?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/madhu-sharma-3473a7276/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/Qklo2ubxgC/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
 
 </div>
@@ -237,7 +237,7 @@ I'm actively looking for **Software Developer / SDE** roles and open to collabor
 
 <p align="center">
   <a href="mailto:msmadhu2405@gmail.com"><img src="https://img.shields.io/badge/Email-msmadhu2405%40gmail.com-22D3EE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b" /></a><br/>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Add%20your%20link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e293b" /></a>
+  <a href="https://www.linkedin.com/in/madhu-sharma-3473a7276/"><img src="https://img.shields.io/badge/LinkedIn-Add%20your%20link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e293b" /></a>
   <a href="https://github.com/MadyMadhu24"><img src="https://img.shields.io/badge/GitHub-MadyMadhu24-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b" /></a>
 </p>
 
