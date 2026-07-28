@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
-  <img alt="Madhu Sharma banner" src="assets/dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="/light.svg">
+  <img alt="Madhu Sharma banner" src="/dark.svg" width="100%">
 </picture>
 
 <br/>
